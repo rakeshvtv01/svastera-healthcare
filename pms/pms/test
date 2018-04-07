@@ -1,0 +1,8 @@
+INSERT INTO `pms`(`id`, `emp_id`, `dates`, `obj1`, `obj2`, `obj3`, `act1`, `act2`, `act3`, `act4`, `act5`, `w1`, `w2`, `w3`, `w4`, `w5`, `t1`, `t2`, `t3`, `t4`, `t5`, `et1`, `et2`, `et3`, `et4`, `et5`, `ppr1`, `ppr2`, `ppr3`, `ppr4`, `ppr5`, `pprx1`, `pprx2`, `pprx3`, `pprx4`, `pprx5`, `vpr1`, `vpr2`, `vpr3`, `vpr4`, `vpr5`, `vprx1`, `vprx2`, `vprx3`, `vprx4`, `vprx5`, `comments1`, `comments2`, `comments3`, `comments4`, `comments5`, `earned`, `performance`, `concerns`, `support_needed`, `feedback`, `performance_pay`, `performance_pay_c`, `performance_payout`, `variable_pay_asses`, `variable_pay_asses_C`, `variable_payout`) VALUES ('','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','')
+
+
+ var a1=<?php echo "$aproved1"; ?>
+            var a2=<?php echo "$aproved2" ?>
+            var a3=<?php echo "$aproved3" ?>
+            var a4=<?php echo "$aproved4" ?>
+            var a5=<?php echo "$aproved5" ?>
